@@ -1,26 +1,26 @@
 {
- "version": "4.2.2",
+ "version": "4.3.0",
  "date": "2026-10-27",
  "notes": [
-  "Placa de prueba: acércala con la rueda del ratón, pellizcando en el trackpad o con los botones + / − / Ajustar, y arrastra para mover la vista",
-  "Placa de prueba con circuitos grandes: un circuito de 300 piezas sale en unos segundos",
-  "Placas de prueba de tiras o de puntos y placa de una cara para hacerla en casa, con guía PDF 1:1"
+  "Placa de prueba como una pestaña más, junto a Esquema, Planta 3D y Homelab",
+  "Placa hecha a mano: dibuja tus pistas de agujero en agujero; Arkion marca lo que falta y los cortos, y saca el cobre en PDF 1:1",
+  "Placa de prueba: acércala con la rueda del ratón, pellizco o + / − / Ajustar"
  ],
  "files": {
   "win": {
-   "url": "Arkion-4.2.2-Windows-Instalador.exe",
-   "sha512": "MX5SCMRi1n0RQQZhMIsIvQsMsCXpy01cIW0t1BOiULWETwBjumtSJznlZXQ22K3uT/3eArXoh25bOnUPZF/SkQ==",
-   "size": 79982348
+   "url": "Arkion-4.3.0-Windows-Instalador.exe",
+   "sha512": "EnzFEEUFxKf55vB1bUNwLi6DMoDezRTgFHAst18ZRBXHoddc65shZ7yz85wn6HEmzGgS407C4zpIunb+ptfbOQ==",
+   "size": 79988403
   },
   "mac-arm64": {
-   "url": "Arkion-4.2.2-Mac-Apple-Silicon.zip",
-   "sha512": "ZY/L5L9uamnOMVUeuxzjf+kkpzoo8NMX6OEVHlWq5ULB2BrA3HheiZZSgZOPbgeNY9+EMeYJiufxUgMPUXFUxg==",
-   "size": 95060778
+   "url": "Arkion-4.3.0-Mac-Apple-Silicon.zip",
+   "sha512": "kLgostrFVD7jrT8BjmZfFavx0EcyFFkgj6GvFXgdaIyW7RVGcjM7u7aCcx+voq0gbK2zDITpVzLtFsfSwdZIgQ==",
+   "size": 95069233
   },
   "mac-x64": {
-   "url": "Arkion-4.2.2-Mac-Intel.zip",
-   "sha512": "cMm71WfoEdeVWznB+vy6eEg9QE8IoZCUNp2ds/2+249RZvO+QLuTIX9oHEtTFVDpe2OF+nod0reCOZ3OJTCY5Q==",
-   "size": 101550255
+   "url": "Arkion-4.3.0-Mac-Intel.zip",
+   "sha512": "CxeHtFmfB3ExKMSmjq8ostPs8vaj1DeiR2KgL1FfdqVr1P53NInnZKx5m/5aWAup0DqMs9/xUQkp/KRSyTtgvA==",
+   "size": 101558718
   }
  }
 }
