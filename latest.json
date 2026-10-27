@@ -1,26 +1,26 @@
 {
- "version": "4.1.1",
- "date": "2026-10-25",
+ "version": "4.2.1",
+ "date": "2026-10-27",
  "notes": [
-  "Monitor Modbus, Diagnóstico, Análisis y demás herramientas ahora son ventanas flotantes: se mueven, se redimensionan y no bloquean la simulación",
-  "Robot de 6 ejes: ejes y X/Y/Z fluidos; mantener X/Y/Z mueve la punta de forma continua",
-  "Planta 3D: arrastrar equipos es suave, con rejilla de 5 cm (Alt: 1 cm, Shift: sin imán)"
+  "Placa de prueba con circuitos grandes: ya no se queda en «Buscando el acomodo…»; un circuito de 300 piezas sale en unos segundos",
+  "Placa de prueba: arma tu circuito en una placa perforada de tiras o de puntos, con cortes, puentes de alambre y guía PDF a escala 1:1",
+  "Placa de una cara para hacerla en casa: pistas anchas, pads grandes, puentes de alambre y PDF 1:1 para planchado de tóner o insoladora"
  ],
  "files": {
   "win": {
-   "url": "Arkion-4.1.1-Windows-Instalador.exe",
-   "sha512": "S0NHkFFOFg3kXQfR5UmzlrUJC89YSa0tuRx19LJsYMQcAqT2dUe9DYeP5SVC2rsQ/WxOam57Gyi5btkmNS87uA==",
-   "size": 79947978
+   "url": "Arkion-4.2.1-Windows-Instalador.exe",
+   "sha512": "Cu6LmqyAI10Exn0l9wMisZwpDEQxlp2QokbfHI1FUt682FS4Gh5eAddV1LWh26pZHNppCS/yBzdhi+wXExUI3Q==",
+   "size": 79981433
   },
   "mac-arm64": {
-   "url": "Arkion-4.1.1-Mac-Apple-Silicon.zip",
-   "sha512": "exk0ErSxz+w03m46+89vZJKBE++zILCa6Pa9+PpTJRtovRu0vFuQp+dQwqYpCNxAKdA++TsyaeVHnMGsVxmEvA==",
-   "size": 95019866
+   "url": "Arkion-4.2.1-Mac-Apple-Silicon.zip",
+   "sha512": "YqafPlSHm7Ce4JgHGT96oWIwyDvthtRDtiTq+AOxnnaGNPRvyrQcS1Lwh0esijdNnBYcGEXbQAomRNT9KrQLvA==",
+   "size": 95059967
   },
   "mac-x64": {
-   "url": "Arkion-4.1.1-Mac-Intel.zip",
-   "sha512": "MEY/PbSqFEK77+HxvewDK2cZSapboaWuXeQ/IUJtLM/Ce5iEjH751Wr6660c/X1GH3tjGf8VoGt8Rup2aWNXfA==",
-   "size": 101509355
+   "url": "Arkion-4.2.1-Mac-Intel.zip",
+   "sha512": "4q69ngUwnjcTZ7xZRsJ4A43FzNSX4YrODG71wf2v4PFgIep4B6nbssT9fUfnCE2y3QoMAHc1DxuFR4gfa91O4g==",
+   "size": 101549451
   }
  }
 }
