@@ -1,26 +1,26 @@
 {
- "version": "4.2.1",
+ "version": "4.2.2",
  "date": "2026-10-27",
  "notes": [
-  "Placa de prueba con circuitos grandes: ya no se queda en «Buscando el acomodo…»; un circuito de 300 piezas sale en unos segundos",
-  "Placa de prueba: arma tu circuito en una placa perforada de tiras o de puntos, con cortes, puentes de alambre y guía PDF a escala 1:1",
-  "Placa de una cara para hacerla en casa: pistas anchas, pads grandes, puentes de alambre y PDF 1:1 para planchado de tóner o insoladora"
+  "Placa de prueba: acércala con la rueda del ratón, pellizcando en el trackpad o con los botones + / − / Ajustar, y arrastra para mover la vista",
+  "Placa de prueba con circuitos grandes: un circuito de 300 piezas sale en unos segundos",
+  "Placas de prueba de tiras o de puntos y placa de una cara para hacerla en casa, con guía PDF 1:1"
  ],
  "files": {
   "win": {
-   "url": "Arkion-4.2.1-Windows-Instalador.exe",
-   "sha512": "Cu6LmqyAI10Exn0l9wMisZwpDEQxlp2QokbfHI1FUt682FS4Gh5eAddV1LWh26pZHNppCS/yBzdhi+wXExUI3Q==",
-   "size": 79981433
+   "url": "Arkion-4.2.2-Windows-Instalador.exe",
+   "sha512": "MX5SCMRi1n0RQQZhMIsIvQsMsCXpy01cIW0t1BOiULWETwBjumtSJznlZXQ22K3uT/3eArXoh25bOnUPZF/SkQ==",
+   "size": 79982348
   },
   "mac-arm64": {
-   "url": "Arkion-4.2.1-Mac-Apple-Silicon.zip",
-   "sha512": "YqafPlSHm7Ce4JgHGT96oWIwyDvthtRDtiTq+AOxnnaGNPRvyrQcS1Lwh0esijdNnBYcGEXbQAomRNT9KrQLvA==",
-   "size": 95059967
+   "url": "Arkion-4.2.2-Mac-Apple-Silicon.zip",
+   "sha512": "ZY/L5L9uamnOMVUeuxzjf+kkpzoo8NMX6OEVHlWq5ULB2BrA3HheiZZSgZOPbgeNY9+EMeYJiufxUgMPUXFUxg==",
+   "size": 95060778
   },
   "mac-x64": {
-   "url": "Arkion-4.2.1-Mac-Intel.zip",
-   "sha512": "4q69ngUwnjcTZ7xZRsJ4A43FzNSX4YrODG71wf2v4PFgIep4B6nbssT9fUfnCE2y3QoMAHc1DxuFR4gfa91O4g==",
-   "size": 101549451
+   "url": "Arkion-4.2.2-Mac-Intel.zip",
+   "sha512": "cMm71WfoEdeVWznB+vy6eEg9QE8IoZCUNp2ds/2+249RZvO+QLuTIX9oHEtTFVDpe2OF+nod0reCOZ3OJTCY5Q==",
+   "size": 101550255
   }
  }
 }
